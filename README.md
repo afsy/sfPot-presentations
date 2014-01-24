@@ -10,7 +10,9 @@ Create a README.md with a basic header template like this :
 Talk title
 ============
 John Doe
+
 sfPot #1 at Lyon - 23/01/2014
+
 http://www.meetup.com/afsy-sfpot/events/160879992/
 
 Blabla...
