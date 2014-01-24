@@ -16,8 +16,11 @@ Talk title
 ==========
 
 __sfPot:__ [#1 at Lyon - 23/01/2014](http://www.meetup.com/afsy-sfpot/events/160879992/)
-__Author:__ @JohnDoe
+
+__Author:__ [John Doe](http://github.com/JohnDoe)
+
 __Slides:__ http://...
+
 __Sources:__ http://...
 
 Whatever you want to add...
