@@ -1,5 +1,5 @@
-Symfony 2 Security & Websockets
-===============================
+Intéropérabilité cross-frameworks
+=================================
 
 __sfPot:__ [#1 at Lyon - 23/01/2014](http://www.meetup.com/afsy-sfpot/events/160879992/)
 
