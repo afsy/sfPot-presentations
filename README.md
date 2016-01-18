@@ -1,6 +1,8 @@
 AFSY sfPot presentations
 ============
 
+[![Join the chat at https://gitter.im/afsy/sfPot-presentations](https://badges.gitter.im/afsy/sfPot-presentations.svg)](https://gitter.im/afsy/sfPot-presentations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Here you can find all the presentations of the talks done during sfPot.
 
 Please create one directory for one talk and put wathever you want : presentations, demo, or just some link:
