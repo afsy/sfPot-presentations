@@ -10,7 +10,7 @@ __Author:__ [Titouan Galopin](https://github.com/tgalopin)
 
 __Slides:__ Non partagées
 
-__Ref:__: https://github.com/Cecilapp/Cecil
+
 
 Talk 2: Melodiia
 ------
@@ -18,3 +18,5 @@ Talk 2: Melodiia
 __Author:__ [Maxime Veber](https://github.com/Nek-)
 
 __Slides:__ https://docs.google.com/presentation/d/1q7T21sauDD9lHGKmp5Cbcb1dHaNH7OspV29Qnl3uNrI/edit?usp=sharing
+
+__Ref:__ https://melodiia.swag.industries/
